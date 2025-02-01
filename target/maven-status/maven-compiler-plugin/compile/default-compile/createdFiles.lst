@@ -1,0 +1,9 @@
+com/reto/service/AnimalService.class
+com/reto/model/AnimalAcuatico.class
+com/reto/model/AnimalTerrestre.class
+com/reto/model/TipoAnimal.class
+com/reto/util/AppConfig.class
+com/reto/model/AnimalVolador.class
+com/reto/App.class
+com/reto/App$1.class
+com/reto/model/Animal.class
